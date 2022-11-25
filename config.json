@@ -1,0 +1,5 @@
+{
+    "secret":"d191ca1cf72d1d63b22d95c764d7547cc4664604",
+    "audience": "nodejs-jwt-auth",
+    "issuer":"https://jwt.io"
+}
